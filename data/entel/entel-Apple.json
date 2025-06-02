@@ -1,0 +1,65 @@
+[
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Pro 256GB 5G",
+    "precio": "S/5,819",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16_Pro_256GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod800040?poId=PO_BSC_EQP_30576&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Pro Max 256GB 5G",
+    "precio": "S/6,379",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16_Pro_Max_256GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod800042?poId=PO_BSC_EQP_30547&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 128GB 5G",
+    "precio": "S/4,299",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod800037?poId=PO_BSC_EQP_30552&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Plus 128GB 5G",
+    "precio": "S/5,029",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16_Plus_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod790049?poId=PO_BSC_EQP_30562&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 14 128GB 5G",
+    "precio": "S/3,459",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/APPLE_IPHONE_14_128GB_MINIATURA_NEW_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod400040?poId=PO_BSC_EQP_26415&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 13 128GB 5G",
+    "precio": "S/2,389",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/APPLE_IPHONE_13_128GB_MIDNIGHT_MINIATURA1_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod180063?poId=PO_BSC_EQP_24220&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Pro 128GB 5G",
+    "precio": "S/5,239",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16_Pro_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod800039?poId=PO_BSC_EQP_30572&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 15 128GB 5G",
+    "precio": "S/3,849",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_15_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod570048?poId=PO_BSC_EQP_28627&modalidad=Libres"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16e 128GB 5G",
+    "precio": "S/3,399",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Apple_Iphone_16E_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910037?poId=PO_BSC_EQP_31188&modalidad=Libres"
+  }
+]

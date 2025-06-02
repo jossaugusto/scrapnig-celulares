@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mafer-Love</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/app.js" defer></script>
+  </head>
+  <body>
+    <h1>Precios desde JSON</h1>
+
+    <h2>Claro</h2>
+    <ul>
+      <% claro.forEach(c => { %>
+      <li><%= c.nombre %> - <%= c.precio %></li>
+      <% }); %>
+    </ul>
+  </body>
+</html>
