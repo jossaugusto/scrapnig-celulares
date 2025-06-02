@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Motorola",
+    "modelo": "E15 64 GB",
+    "precio": "S/ 399",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemo00e15azs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/motorola-e15-liberados"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G35 256 GB",
+    "precio": "S/ 699",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemot2433nes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/motorola-moto-g35-liberados"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G15 256 GB",
+    "precio": "S/ 649",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemo00g15ves001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/motorola-g15-liberados"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G05 128 GB",
+    "precio": "S/ 549",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemo00g05ros001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/motorola-g05-liberados"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G24 Power 256GB",
+    "precio": "S/ 449",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemot2425ces001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/motorola-g24-power-liberados"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G54 256GB",
+    "precio": "S/ 729",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpemot2343nes001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/motorola-g54-256-gb-liberados"
+  }
+]

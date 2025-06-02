@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Xiaomi",
+    "modelo": "Redmi 14C 128 GB",
+    "precio": "S/ 499",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexir14c1ves001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-redmi-14c-128-gb-liberados"
+  },
+  {
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 14 Pro 256 GB",
+    "precio": "S/ 1,299",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexirn14pnes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-redmi-note-14-pro-256gb-liberados"
+  },
+  {
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 14 Pro Plus 256 GB",
+    "precio": "S/ 1,899",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexir14ppmos001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-redmi-note-14-pro-plus-256gb-liberados"
+  },
+  {
+    "marca": "Xiaomi",
+    "modelo": "14T 512 GB",
+    "precio": "S/ 2,299",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexi0014tgrs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-14t-512-gb-liberados"
+  },
+  {
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 14 256 GB",
+    "precio": "S/ 899",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexiren14azs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-redmi-note-14-256gb-liberados"
+  },
+  {
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 13 Pro 256GB",
+    "precio": "S/ 999",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpexirn13pmos001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/xiaomi-redmi-note-13-pro-liberados"
+  }
+]

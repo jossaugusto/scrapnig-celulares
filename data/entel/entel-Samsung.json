@@ -1,41 +1,6 @@
 [
   {
     "marca": "Samsung",
-    "modelo": "Galaxy S24 Fe 256GB 5G",
-    "precio": "S/2,649",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S24_Fe_256GB_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod810037?poId=PO_BSC_EQP_30591&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy S25 Ultra 256GB 5G",
-    "precio": "S/5,039",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S25_Ultra_256GB_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod870046?poId=PO_BSC_EQP_30909&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy S24 Fe 128GB 5G",
-    "precio": "S/2,399",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S24_Fe_128GB_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod810040?poId=PO_BSC_EQP_30590&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A16 256GB 4G",
-    "precio": "S/799",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_256GB_4G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900037?poId=PO_BSC_EQP_30790&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A16 128GB 5G",
-    "precio": "S/649",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod820052?poId=PO_BSC_EQP_30620&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
     "modelo": "Galaxy A06 64GB",
     "precio": "S/349",
     "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A06_64GB_Miniatura_121x246.jpg",
@@ -57,31 +22,10 @@
   },
   {
     "marca": "Samsung",
-    "modelo": "Galaxy A26 128GB 5G + Batería 10000MAh 2",
-    "precio": "S/869",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A26_128GB_5G_+_Bindu_Bateria_10000_Mah_2_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910062?poId=PO_BSC_EQP_31390&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A16 128GB 5G + Batería 10000MAh 2",
-    "precio": "S/649",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_+_Bindu_Bateria_10000_MAH_2_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900089?poId=PO_BSC_EQP_31096&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A26 128GB 5G + Parlante Bluetooth 11GYRU999",
-    "precio": "S/869",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A26_128GB_5G_+_Parlante_Bluetooth_11GYRU999_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910064?poId=PO_BSC_EQP_31389&modalidad=Libres"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A36 256GB 5G",
-    "precio": "S/1,649",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A36_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900051?poId=PO_BSC_EQP_31069&modalidad=Libres"
+    "modelo": "Galaxy S24 Fe 256GB 5G",
+    "precio": "S/2,649",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S24_Fe_256GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod810037?poId=PO_BSC_EQP_30591&modalidad=Libres"
   },
   {
     "marca": "Samsung",
@@ -99,10 +43,24 @@
   },
   {
     "marca": "Samsung",
-    "modelo": "Galaxy A06 128GB 5G",
-    "precio": "S/419",
-    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A06_128GB_5G_Miniatura_121x246.jpg",
-    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910040?poId=PO_BSC_EQP_31149&modalidad=Libres"
+    "modelo": "Galaxy S25 Ultra 256GB 5G",
+    "precio": "S/5,039",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S25_Ultra_256GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod870046?poId=PO_BSC_EQP_30909&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A26 128GB 5G + Batería 10000MAh 2",
+    "precio": "S/869",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A26_128GB_5G_+_Bindu_Bateria_10000_Mah_2_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910062?poId=PO_BSC_EQP_31390&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy S24 Fe 128GB 5G",
+    "precio": "S/2,399",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_S24_Fe_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod810040?poId=PO_BSC_EQP_30590&modalidad=Libres"
   },
   {
     "marca": "Samsung",
@@ -113,6 +71,20 @@
   },
   {
     "marca": "Samsung",
+    "modelo": "Galaxy A16 256GB 4G",
+    "precio": "S/799",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_256GB_4G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900037?poId=PO_BSC_EQP_30790&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A16 128GB 5G + Batería 10000MAh 2",
+    "precio": "S/649",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_+_Bindu_Bateria_10000_MAH_2_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900089?poId=PO_BSC_EQP_31096&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
     "modelo": "Galaxy A36 128GB 5G",
     "precio": "S/1,189",
     "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A36_5G_Miniatura_121x246.jpg",
@@ -120,9 +92,44 @@
   },
   {
     "marca": "Samsung",
+    "modelo": "Galaxy A26 128GB 5G + Parlante Bluetooth 11GYRU999",
+    "precio": "S/869",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A26_128GB_5G_+_Parlante_Bluetooth_11GYRU999_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910064?poId=PO_BSC_EQP_31389&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A06 128GB 5G",
+    "precio": "S/419",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A06_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod910040?poId=PO_BSC_EQP_31149&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A16 128GB 5G",
+    "precio": "S/649",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod820052?poId=PO_BSC_EQP_30620&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A16 128GB 5G + Parlante Bluetooth 11GYRU999",
+    "precio": "S/649",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_+_Parlante_Bluetooth_11GYRU999_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900088?poId=PO_BSC_EQP_31131&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
     "modelo": "Galaxy A16 128GB 5G + Parlante Bluetooth 11GYRU998",
     "precio": "S/649",
     "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A16_128GB_5G_+_Parlante_Bluetooth_11GYRU998_Miniatura_121x246.jpg",
     "link": "https://miportal.entel.pe/personas/producto/equipos/prod900087?poId=PO_BSC_EQP_31132&modalidad=Libres"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A36 256GB 5G",
+    "precio": "S/1,649",
+    "img": "https://miportal.entel.pe/static/040320251437494/images/Samsung_Galaxy_A36_5G_Miniatura_121x246.jpg",
+    "link": "https://miportal.entel.pe/personas/producto/equipos/prod900051?poId=PO_BSC_EQP_31069&modalidad=Libres"
   }
 ]

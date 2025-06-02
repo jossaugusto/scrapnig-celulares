@@ -1,20 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mafer-Love</title>
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <script src="/js/app.js" defer></script>
   </head>
   <body>
-    <h1>Precios desde JSON</h1>
+    <div class="container">
+      <h1 class="title">📱 Precios de Smartphones</h1>
+      <input type="text" id="buscador" placeholder="Buscar smartphone por nombre o modelo..." class="search-input" />
 
-    <h2>Claro</h2>
-    <ul>
-      <% claro.forEach(c => { %>
-      <li><%= c.nombre %> - <%= c.precio %></li>
-      <% }); %>
-    </ul>
+      <% for (let [tienda, marcas] of Object.entries(tiendas)) { %>
+      <section class="store">
+        <h2 class="store-name"><%= tienda.toUpperCase() %></h2>
+
+        <% for (let [marca, productos] of Object.entries(marcas)) { %>
+        <h3 class="brand"><%= marca %></h3>
+        <div class="products">
+          <% productos.forEach(producto => { %>
+          <div class="product-card">
+            <img src="<%= producto.img %>" alt="<%= producto.modelo %>" class="product-img" />
+            <div class="product-info">
+              <p><strong><%= producto.marca %></strong> - <%= producto.modelo %></p>
+              <% if (producto.capacidad) { %>
+              <p><strong>Capacidad:</strong> <%= producto.capacidad %></p>
+              <% } %>
+              <p class="price"><%= producto.precio %></p>
+              <a href="<%= producto.link %>" target="_blank" class="btn">Ver producto</a>
+            </div>
+          </div>
+          <% }) %>
+        </div>
+        <% } %>
+      </section>
+      <% } %>
+    </div>
   </body>
 </html>

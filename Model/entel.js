@@ -24,11 +24,10 @@ export const scrapeEntel = async ({ marca }) => {
     await page.goto(URL.ENTEL, { waitUntil: 'networkidle2' })
 
     // -----------------
-    console.log('Clickeando en Marca')
+
+    console.log('Clickeando en para ver Marcas disponibles')
 
     await page.click('span[title="Marca"]')
-
-    console.log('Esperando por 2 segundos')
 
     await new Promise(resolve => setTimeout(resolve, 2000)) // Esperar a que cargue todo el contenido
 
@@ -55,7 +54,7 @@ export const scrapeEntel = async ({ marca }) => {
         const productos = document.querySelectorAll('.card-plp')
 
         for (const producto of productos) {
-          const agotado = producto.querySelector('.productBadge__item.agotado span')?.innerText.trim()
+          const agotado = producto.querySelector('.productBadge__item.agotado') ?? null
           if (agotado) {
             agotadoDetectado = true
             break

@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A35 256GB 5G",
+    "precio": "S/ 1,099",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesaa3562nes001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-a35-liberados"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy S25 Ultra 256 GB",
+    "precio": "S/ 5,499",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesas9382azs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-s25-ultra-256gb-liberados"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy S25 Plus 256 GB",
+    "precio": "S/ 4,599",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesas9362azs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-s25-256gb-liberados"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy S25 128 GB",
+    "precio": "S/ 3,799",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesas9311azs001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-s25-liberados"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A35 256GB + cargador",
+    "precio": "S/ 1,309",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesaa3562nesp01_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-a35-pack-liberados"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "Galaxy A25 256GB 5G",
+    "precio": "S/ 899",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpesaa2562nes001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/samsung-galaxy-a25-liberados"
+  }
+]

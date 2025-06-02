@@ -1,0 +1,65 @@
+[
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 13 128 GB",
+    "precio": "S/ 2,299",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap13128bls001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/iphone-13-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Pro Max 256 GB",
+    "precio": "S/ 5,889",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap16pm2nes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/iphone-16-pro-max-256-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Pro 128 GB",
+    "precio": "S/ 4,919",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap16pr1nes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/iphone-16-pro-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 128 GB",
+    "precio": "S/ 3,949",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap16128nes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/iphone-16-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 15 Pro Max 256GB",
+    "precio": "S/ 5,499",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap15pm2bls001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/iphone-15-pro-max-256-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 15 128 GB",
+    "precio": "S/ 3,599",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap15128azs001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/iphone-15-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "IPhone 14 128 GB",
+    "precio": "S/ 3,099",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap14128bls001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/iphone-14-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 16 Plus 128 GB",
+    "precio": "S/ 4,429",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap16pl1nes001_260x310_catalog.png",
+    "link": "https://tienda.movistar.com.pe/iphone-16-plus-128-gb-liberados"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "iPhone 15 Plus 128GB",
+    "precio": "S/ 4,149",
+    "img": "https://tienda.movistar.com.pe/media/catalog/product/t/m/tmgpeap15pl1nes001_340x600_front.png",
+    "link": "https://tienda.movistar.com.pe/iphone-15-plus-128-gb-liberados"
+  }
+]

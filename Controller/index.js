@@ -1,17 +1,36 @@
-// Controller/index.js
 import path from 'path'
-import { readJSON } from '../config/require.js'
+import fs from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname } from 'path'
+import { readJSON } from '../config/require.js'
 
-// Necesario en ESModules para usar __dirname
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
-export const renderHome = (req, res) => {
-  const claro = readJSON(path.join(__dirname, '../data/claro/claro.json'))
-  const entel = readJSON(path.join(__dirname, '../data/entel/entel.json'))
-  const movistar = readJSON(path.join(__dirname, '../data/movistar/movistar.json'))
+// Función que carga todos los JSON de una tienda
+const cargarDatosPorTienda = nombreTienda => {
+  const tiendaPath = path.join(__dirname, `../data/${nombreTienda}`)
+  const archivos = fs.readdirSync(tiendaPath)
+  const datos = {}
 
-  res.render('index', { claro, entel, movistar })
+  archivos.forEach(archivo => {
+    if (archivo.endsWith('.json')) {
+      const [_, marcaRaw] = archivo.split('-') // claro-Apple.json
+      const marca = marcaRaw.replace('.json', '')
+      const json = readJSON(path.join(tiendaPath, archivo))
+      datos[marca] = json
+    }
+  })
+
+  return datos
+}
+
+export const renderHome = (req, res) => {
+  const tiendas = {
+    claro: cargarDatosPorTienda('claro'),
+    entel: cargarDatosPorTienda('entel'),
+    movistar: cargarDatosPorTienda('movistar')
+  }
+
+  res.render('index', { tiendas })
 }

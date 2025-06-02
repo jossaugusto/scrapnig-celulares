@@ -41,6 +41,14 @@
   },
   {
     "marca": "APPLE",
+    "modelo": "iPhone 16",
+    "capacidad": "512 GB",
+    "precio": "S/ 4469.00",
+    "img": "https://claroperupoc.vtexassets.com/arquivos/ids/2201598/iphone16-front-400x400-green.png?v=638642634112570000",
+    "link": "https://www.tiendaclaro.pe/apple-iphone-16-128gb-teal-liberado-p/p?cuota=0&skuId=378192"
+  },
+  {
+    "marca": "APPLE",
     "modelo": "iPhone 16 Pro",
     "capacidad": "128 GB",
     "precio": "S/ 5609.00",
